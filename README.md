@@ -6,7 +6,7 @@
 ![hyejeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejeong0807&hide=contribs,prs)
 
 # :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejeong0807@gmail.com)](mailto:hyejeong0807@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyejeong12311@gmail.com)](mailto:hyejeong12311@gmail.com)
 
 <!--
 **hyejeong0807/hyejeong0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
